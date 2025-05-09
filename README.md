@@ -1,1 +1,2 @@
+# 授業のやつです
 # GaussQuadrature
